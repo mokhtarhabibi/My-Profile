@@ -47,22 +47,16 @@ I build modern, scalable, and user-focused web applications using modern technol
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mokhtarhabibi&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokhtarhabibi&layout=compact&theme=transparent&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mokhtarhabibi&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mokhtarhabibi&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ---
 
-## 🌍 Portfolio
+## 🌍 Connect
 
-You can explore my portfolio to learn more about my projects, experience, and the technologies I work with.
-
----
-
-## 📫 Connect
-
-* GitHub Profile
-* Personal Portfolio
+* **Portfolio:** https://mokhtarhabibi.netlify.app/en
+* **GitHub:** https://github.com/mokhtarhabibi
 
 ---
 
