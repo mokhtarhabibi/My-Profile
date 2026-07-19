@@ -42,14 +42,6 @@ I build modern, scalable, and user-focused web applications using modern technol
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma" />
 </p>
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mokhtarhabibi&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mokhtarhabibi&layout=compact&theme=transparent&hide_border=true" />
-</p>
 
 ---
 
